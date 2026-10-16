@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://furkeep.app/sitemap.xml
