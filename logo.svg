@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#4A6B57"/><circle cx="32" cy="38" r="12" fill="#fff"/><circle cx="17" cy="24" r="6" fill="#fff"/><circle cx="47" cy="24" r="6" fill="#fff"/><circle cx="24" cy="13" r="5" fill="#fff"/><circle cx="40" cy="13" r="5" fill="#fff"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5A7F68"/>
+      <stop offset="1" stop-color="#3E5C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <!-- toes -->
+  <ellipse cx="262" cy="392" rx="84" ry="106" transform="rotate(-22 262 392)" fill="#F6F1E7"/>
+  <ellipse cx="762" cy="392" rx="84" ry="106" transform="rotate(22 762 392)" fill="#F6F1E7"/>
+  <ellipse cx="418" cy="226" rx="78" ry="98" transform="rotate(-8 418 226)" fill="#F6F1E7"/>
+  <ellipse cx="606" cy="226" rx="78" ry="98" transform="rotate(8 606 226)" fill="#F6F1E7"/>
+  <!-- main pad as a heart -->
+  <path fill="#F6F1E7" d="M512 830 C 410 756, 302 686, 302 578 C 302 508, 356 462, 420 462 C 464 462, 494 486, 512 520 C 530 486, 560 462, 604 462 C 668 462, 722 508, 722 578 C 722 686, 614 756, 512 830 Z"/>
+</svg>
