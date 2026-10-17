@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-CcwC455a.js","assets/index-BbLDVCRr.js","assets/index-B-hJkJEb.css"])))=>i.map(i=>d[i]);
+import{a as t,_ as e}from"./index-BbLDVCRr.js";const n=t("CapacitorPluginMlKitTextRecognition",{web:()=>e(()=>import("./web-CcwC455a.js"),__vite__mapDeps([0,1,2])).then(i=>new i.CapacitorPluginMlKitTextRecognitionWeb)});export{n as CapacitorPluginMlKitTextRecognition};
